@@ -1,0 +1,21 @@
+body,h1,h2,
+
+h3{
+    margin: 0;
+}
+a{
+    -webkit-tap-highlight-color:transparent;
+	text-decoration: none;
+}
+ul{
+    margin: 0;
+    padding:0;
+    list-style: none;
+}
+img{
+    vertical-align:top;
+}
+input {
+	-webkit-appearance:none;
+	outline:none;
+}
